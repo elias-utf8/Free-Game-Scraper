@@ -7,7 +7,7 @@
 
   
 ## About The Project
-<img src="assets/example.png" alt="preview">
+<img src="assets/banner.png" alt="preview">
 
 ### Built With
 
