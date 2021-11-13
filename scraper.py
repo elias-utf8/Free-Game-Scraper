@@ -68,7 +68,7 @@ class GameScraper(): # Create object
 		
 
 
-		platformTable = "pc | ps4 | ps5 | xbox-one | xbox-series-xs | switch | android | ios | vr|  epic-games-store| battlenet | origin xbox-360 | drm-free | google"
+		platformTable = "pc | ps4 | ps5 | xbox-one | xbox-series-xs | switch | android | ios | vr|  epic-games-store| steam | battlenet | origin | xbox-360 | drm-free | google"
 		typeTable= "game | loot | beta"
 		self.slowType(f"\nPlease select {Fore.GREEN}one{Style.RESET_ALL} platform preference, if so type it here or press enter to ignore:\n ", .02, newLine = False)
 		print(Fore.CYAN + platformTable)
