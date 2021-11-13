@@ -8,7 +8,7 @@
   
 ## About The Project
 <img src="assets/banner.png" alt="preview">
-<img src="assets/result.png" alt="result">
+<img src="assets/results.png" alt="result">
     
 ### Built With
 
