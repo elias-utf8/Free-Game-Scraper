@@ -27,7 +27,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/KursK-sys/Free-Game-Scraper.git
+   git clone https://github.com/elias-utf8/Free-Game-Scraper.git
    ```
 2. Install Python packages
    ```sh
@@ -40,7 +40,7 @@ You need to install Python, that can be done [here](https://www.python.org)
    
 #### Or this can be done using android with unrooted Termux
 ```
-git clone https://github.com/KursK-sys/Free-Game-Scraper.git
+git clone https://github.com/elias-utf8/Free-Game-Scraper.git
 pkg install python
 pip install -r requirements.txt
 cd Free-Game-Scraper
